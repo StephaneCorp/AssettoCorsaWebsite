@@ -1,0 +1,43 @@
+Page:
+	Err 404 : 
+		- Mettre img en fond de site avec une text du genre "T'es hors piste pilote !"
+		- Navbar
+		- Footer avec réseaux, sociaux etc..
+
+	Drift :
+		- Fond d'une voiture qui drift
+		- Navbar
+		- Lien du serveur
+		- Div avec img de la voiture et btn pour dl
+		- Div avec img du circuit et btn pour dl
+		- Footer avec réseaux, sociaux etc..
+
+	Rally :
+		- Fond d'une voiture de Rally
+		- Navbar
+		- Lien du serveur
+		- Div avec img de la voiture et btn pour dl
+		- Div avec img du circuit et btn pour dl
+		- Footer avec réseaux, sociaux etc..
+
+	Freeroam :
+		- Fond d'une voiture classique
+		- Navbar
+		- Lien du serveur
+		- Div avec img de la voiture et btn pour dl
+		- Div avec img du circuit et btn pour dl
+		- Footer avec réseaux, sociaux etc..
+
+	(Pas obligé) Les légendes partie trop tôt :
+
+		- Fond d'un circuit vu du dessus
+		- Navbar
+		- Div avec img de la légende avec sa date de naissance et de mort et son palmarèsse 
+
+
+Etape :
+
+1- Créer le composant de la navbar
+2- Créer le composant des div de chaque pages
+
+		
